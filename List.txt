@@ -11,4 +11,6 @@ kongregate.com
  kusha-code-patch-2
 freearcade.com
 bored.com
-
+pirategames.com
+freearcade.com
+flashgames.com
